@@ -16,11 +16,7 @@ termux-setup-storage
 ```
 5-
 ```env
-pkg install wget -y
-```
-6-
-```env
- wget https://github.com/omar3elbakery/ADB-Fastboot-Kit-For-Termux/releases/download/ADB%26Fasboot_Kit/install.sh && bash install.sh
+ curl -L -O https://github.com/omar3elbakery/ADB-Fastboot-Kit-For-Termux/releases/download/Kit/install.sh && bash install.sh
 ```
 
 # USAGE 
