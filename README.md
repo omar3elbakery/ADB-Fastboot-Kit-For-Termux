@@ -20,7 +20,7 @@ pkg install wget -y
 ```
 6-
 ```env
- wgethttps://github.com/omar3elbakery/ADB-Fastboot-Kit-For-Termux/releases/download/ADB%26Fasboot_Kit/install.sh && bash install.sh
+ wget https://github.com/omar3elbakery/ADB-Fastboot-Kit-For-Termux/releases/download/ADB%26Fasboot_Kit/install.sh && bash install.sh
 ```
 
 # USAGE 
